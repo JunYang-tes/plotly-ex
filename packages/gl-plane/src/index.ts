@@ -169,4 +169,11 @@ export class GLPlane {
   public drawTransparent(param: DrawParam) {
     this.draw(param)
   } 
+
+  public dispose() {
+    this.vao.dispose()
+    this.texture.dispose()
+    this.trangleShader.dispose()
+    this.vertextBuffer.dispose()
+  }
 }
