@@ -1,5 +1,5 @@
 {
-  "name": "gl-plane",
+  "name": "@target-energysolutions/gl-plane",
   "version": "0.0.4",
   "description": "Draw a plane with texture",
   "types": "./lib/index.d.ts",

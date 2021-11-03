@@ -1,5 +1,5 @@
 {
-  "name": "plotly-image3d",
+  "name": "@target-energysolutions/plotly-image3d",
   "version": "0.0.9",
   "description": "plot image3d in plotly.js",
   "types": "./lib/index.d.ts",
