@@ -1,4 +1,4 @@
-import { GLPlane } from 'gl-plane'
+import { GLPlane } from '@target-energysolutions/gl-plane'
 import {Data, Scene} from './types'
 type Position = [number,number,number]
 class Image3DTrace {
