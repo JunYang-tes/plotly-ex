@@ -1,0 +1,20 @@
+{
+  "name": "@target-energysolutions/plotly.js-dist",
+  "version": "3.1.1",
+  "description": "Ready-to-use plotly.js distributed bundle.",
+  "license": "MIT",
+  "main": "plotly.js",
+  "author": "Plotly, Inc.",
+  "keywords": [
+    "graphing",
+    "plotting",
+    "data",
+    "visualization",
+    "plotly"
+  ],
+  "files": [
+    "LICENSE",
+    "README.md",
+    "plotly.js"
+  ]
+}
